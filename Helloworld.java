@@ -8,8 +8,8 @@ public class Helloworld
 
 
   public static void main(String[] args) {
-     Helloworld obj=New Helloworld();
-       System.out.println("addition is "+obj.addnumber(3,7);
+     Helloworld obj=new Helloworld();
+       System.out.println("addition is "+obj.addnumber(3,7));
     System.out.println("Hello world!, new java program");
   }
 
